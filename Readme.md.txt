@@ -33,11 +33,7 @@ A data analytics and forecasting project developed using Python and Power BI to 
 
 ---
 
-## 📷 Dashboard Preview
 
-(Add screenshot here)
-
----
 
 ## 🔗 Author
 
